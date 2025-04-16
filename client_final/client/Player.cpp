@@ -349,8 +349,8 @@ bool Player::CheckCheckpoints(Collider col)
 
 void Player::StartPosition()
 {
-    players[currentPlayerId].Position.X = (currentPlayerId + 1) * 32 + (6 * 32);
-    players[currentPlayerId].Position.Y = 16 * 32;
+    players[currentPlayerId].Position.X = (((currentPlayerId + 1) * 32 + (6 * 32)) - 32) + 6;;
+    players[currentPlayerId].Position.Y = 16 * 32 + 8;
 }
 
 bool Player::CheckCollisosWithPlayer(Player other) {

@@ -1,122 +1,112 @@
-﻿  Game.cpp
+﻿  Player.cpp
 C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Collider.h(21,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
+  (compiling source file 'Player.cpp')
   
 C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Collider.h(22,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
+  (compiling source file 'Player.cpp')
   
 C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Collider.h(23,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
+  (compiling source file 'Player.cpp')
   
 C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Collider.h(24,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
+  (compiling source file 'Player.cpp')
   
 C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.h(54,25): warning C4305: 'initializing': truncation from 'double' to 'float'
-  (compiling source file 'Game.cpp')
+  (compiling source file 'Player.cpp')
   
 C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.h(40,30): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
+  (compiling source file 'Player.cpp')
   
 C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.h(41,30): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
+  (compiling source file 'Player.cpp')
   
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Bullet.h(24,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Bullet.h(40,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Bullet.h(40,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Box.h(21,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Box.h(21,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(163,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(163,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(361,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(362,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(423,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(423,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(586,98): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(603,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\client.h(604,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Karta.h(27,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Karta.h(28,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Spomin_Polje.h(50,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Spomin_Polje.h(55,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Servis.h(24,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Servis.h(24,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Game.cpp')
-  
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(28,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(29,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(62,11): warning C4305: 'return': truncation from 'int' to 'bool'
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(164,15): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(165,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(283,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(288,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(288,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(288,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(288,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(319,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(319,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(319,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(319,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(402,145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(402,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(434,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(434,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(435,126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(435,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(438,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(438,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(442,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(442,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(452,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(452,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(453,126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(453,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(492,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(492,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(493,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(493,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(498,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(498,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(499,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(499,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(680,22): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(703,22): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Game.cpp(726,22): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(10,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(38,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(45,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(61,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(72,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(109,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(109,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(111,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(115,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(122,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(132,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(132,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(132,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(136,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(136,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(136,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(140,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(140,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(140,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(144,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(144,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(144,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(148,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(148,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(148,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(152,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(152,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(152,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(156,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(156,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(156,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(160,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(160,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(160,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(173,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(173,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(173,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(174,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(174,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(174,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(178,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(178,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(178,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(179,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(179,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(179,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(183,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(183,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(183,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(184,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(184,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(184,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(188,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(188,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(188,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(189,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(189,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(189,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(193,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(193,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(193,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(194,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(194,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(194,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(198,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(198,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(198,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(199,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(199,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(199,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(203,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(203,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(203,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(204,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(204,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(204,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(208,139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(208,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(208,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(209,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(209,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(209,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(213,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(213,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(237,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(277,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(278,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\client\Player.cpp(352,90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LINK : program database C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\x64\Debug\client.pdb missing; performing full link
   client.vcxproj -> C:\Users\Luka\Desktop\client – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\x64\Debug\client.exe

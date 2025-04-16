@@ -1,23 +1,2 @@
-﻿  mail.cpp
-C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\server\Bullet.h(20,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-  (compiling source file 'mail.cpp')
-  
-C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\server\Bullet.h(21,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-  (compiling source file 'mail.cpp')
-  
-C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\server\Server.h(78,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'mail.cpp')
-  
-C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\server\Server.h(78,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'mail.cpp')
-  
-C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\server\Server.h(228,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'mail.cpp')
-  
-C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\server\Server.h(228,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'mail.cpp')
-  
-C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\server\Server.h(301,18): warning C4101: 'delimiter': unreferenced local variable
-  (compiling source file 'mail.cpp')
-  
+﻿  LINK : program database C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\x64\Debug\server.pdb missing; performing full link
   server.vcxproj -> C:\Users\Luka\Desktop\server – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija – kopija (2) – kopija – kopija – kopija\x64\Debug\server.exe

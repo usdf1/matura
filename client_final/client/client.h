@@ -582,10 +582,10 @@ private:
         else if (receivedData == "START" && Game::GetInstance()->clicked == 1) {
             PLayersWaiting = 0;
             Game::GetInstance()->clicked = 0;
-            Game::GetInstance()->m_State = 1;
             players[currentPlayerId].Position.X = (((currentPlayerId + 1) * 32 + (6 * 32)) - 32) + 6;
             players[currentPlayerId].Position.Y = 16 * 32 + 8;
             Game::GetInstance()->canMove = 0;
+            Game::GetInstance()->m_State = 1;
             movementStartTime = SDL_GetTicks();
         }
 

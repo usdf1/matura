@@ -364,8 +364,6 @@ void Game::Update() {
 		}
 		if (AvtiOver == 1) {
 			back.IsOver();
-			NasprotnikTocke = 0;
-			SpominTocka = 0;
 		}
 	}
 }
@@ -521,7 +519,7 @@ void Game::Render() {
 		
 		if (AvtiOver == 1) {
 			TextureManager::GetInstance()->Draw("end", 0, 0, SCREEN_WIDTH, SCREEN_HEIGHT);
-			if (Is_Hit == 1) TextureManager::GetInstance()->renderText("ZMAGA!", { 0,255,0,255 }, text5, 650, 100);
+			if (Is_Hit == 0) TextureManager::GetInstance()->renderText("ZMAGA!", { 0,255,0,255 }, text5, 650, 100);
 			else TextureManager::GetInstance()->renderText("IZGUBIL SI", { 255,0,0,255 }, text5, 650, 100);
 			back.Draw();
 		}
@@ -538,7 +536,7 @@ void Game::Render() {
 			TextureManager::GetInstance()->Draw("end", 0, 0, SCREEN_WIDTH, SCREEN_HEIGHT);
 			if (SpominTocka > NasprotnikTocke) TextureManager::GetInstance()->renderText("ZMAGA!", { 0,255,0,255 }, text5, 650, 100);
 			else if (SpominTocka < NasprotnikTocke) TextureManager::GetInstance()->renderText("IZGUBIL SI", { 255,0,0,255 }, text5, 650, 100);
-			else TextureManager::GetInstance()->renderText("IZENAÈENO", { 0,0,255,255 }, text5, 650, 100);
+			else TextureManager::GetInstance()->renderText("IZENACENO", { 0,0,255,255 }, text5, 650, 100);
 			back.Draw();
 		}
 	}
@@ -790,6 +788,8 @@ void Game::Events() {
 						if (back.hoovered == 1) {
 							AvtiOver = 0;
 							m_State = -1;
+							NasprotnikTocke = 0;
+							SpominTocka = 0;
 						}
 					}
 					
